@@ -1,4 +1,4 @@
-package com.chenniu.satoken.handler;
+package com.chenniu.satoken.common.satoken;
 
 import cn.dev33.satoken.exception.*;
 import cn.dev33.satoken.util.SaResult;
